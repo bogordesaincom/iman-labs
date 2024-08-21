@@ -1,0 +1,20 @@
+{
+    "name": "imanlib",
+    "version": "1.0.0",
+    "description": "Library Iman Sugirman",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "keywords": [
+        "iman"
+    ],
+    "author": "Iman Sugirman",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.4.2",
+        "typescript": "^5.5.4"
+    }
+}
