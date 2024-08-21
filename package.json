@@ -1,6 +1,6 @@
 {
     "name": "imanlib",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Library Iman Sugirman",
     "repository": "https://github.com/bogordesaincom/iman-labs.git",
     "main": "dist/index.js",
