@@ -63,4 +63,4 @@ const invoiceRomawiNumber = (
     return invoiceFinal;
 };
 
-export { getRomawiNumber, invoiceRomawiNumber };
+export { getRomawiNumber, invoiceRomawiNumber, getRomawiAlpha };
