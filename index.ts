@@ -36,6 +36,9 @@ import {
   generateAlphaNumber,
   generateUsernameRandom,
 } from "./commons/randomNumber";
+
+import terbilangNumber from "./commons/terbilang";
+
 export {
   capitalFirst,
   codeResponse,
@@ -65,4 +68,5 @@ export {
   getMiliSecond,
   generateAlphaNumber,
   generateUsernameRandom,
+  terbilangNumber,
 };
